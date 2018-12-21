@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\algorithm\algorithm.cpp
+	"Algorithm.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\algorithm.h
+	"maze.h"
+	"Noeud.h"
+	"utils/coord.h"
+	"utils/performance.h"
+	<vector>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\maze.h
+	<vector>
+	<stack>
+	<queue>
+	<string>
+	"Noeud.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\noeud.h
+	<vector>
+	<algorithm>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\utils\coord.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\utils\performance.h
+	<chrono>
+	<iostream>
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\algorithm\bfs.cpp
+	"BFS.h"
+	<iostream>
+	<stdio.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\bfs.h
+	<Algorithm.h>
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\algorithm\bruteforce.cpp
+	"BruteForce.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\bruteforce.h
+	"Algorithm.h"
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\algorithm\dfs.cpp
+	"DFS.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\dfs.h
+	<Algorithm.h>
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\graphic.cpp
+	"graphic.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\graphic.h
+	<allegro.h>
+	<string>
+	<iostream>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\alplatf.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\alosxcfg.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\unicode.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\config.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\debug.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\mouse.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\timer.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\keyboard.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\joystick.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\palette.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\fixed.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\al386gcc.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\al386vc.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\platform\al386wat.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\color.inl
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\compiled.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\text.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\font.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\gui.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\digi.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\stream.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\midi.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\file.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\lzss.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\datafile.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\matrix.inl
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\quat.h
+	"base.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\3dmaths.inl
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\alcompat.h
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\allegro\inline\fix.inl
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\main.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<iostream>
+	"utils/performance.h"
+	"BruteForce.h"
+	"BFS.h"
+	"DFS.h"
+	"Menu.h"
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\utils\console.h
+	<iostream>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\include\menu.h
+	<string>
+	<vector>
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\maze.cpp
+	"maze.h"
+	"graphic.h"
+	"utils/console.h"
+	"utils/coord.h"
+	<fstream>
+	<iomanip>
+	<queue>
+	<stack>
+	<chrono>
+	<algorithm>
+	<stdlib.h>
+	<iostream>
+	"Noeud.h"
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\menu.cpp
+	"Menu.h"
+	<iostream>
+	<allegro.h>
+	<sstream>
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\noeud.cpp
+	"Noeud.h"
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\utils\console.cpp
+	"utils/console.h"
+	<conio.h>
+	<allegro.h>
+	<winalleg.h>
+
+1462115685 c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\externals\include\winalleg.h
+	<afxwin.h>
+	<windows.h>
+
+1462115685 source:c:\users\lynar\downloads\castilloerwan-projet-sokoban-d7bb705d96dc\castilloerwan-projet-sokoban-d7bb705d96dc\new_sokoban_solver_minimal_ece (1)\new_sokoban_solver_minimal_ece\src\utils\coord.cpp
+	"utils/coord.h"
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="new_sokoban_solver" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/new_sokoban_solver" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add option="-pg" />
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-pg -lgmon" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/new_sokoban_solver" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Winline" />
+			<Add option="-Wextra" />
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+			<Add directory="Externals/include" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="alleg" />
+			<Add directory="Externals/lib" />
+			<Add directory="Externals/bin" />
+		</Linker>
+		<Unit filename="include/Algorithm.h" />
+		<Unit filename="include/BFS.h" />
+		<Unit filename="include/BruteForce.h" />
+		<Unit filename="include/DFS.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/Noeud.h" />
+		<Unit filename="include/graphic.h" />
+		<Unit filename="include/maze.h" />
+		<Unit filename="include/utils/console.h" />
+		<Unit filename="include/utils/coord.h" />
+		<Unit filename="include/utils/performance.h" />
+		<Unit filename="src/Algorithm/Algorithm.cpp" />
+		<Unit filename="src/Algorithm/BFS.cpp" />
+		<Unit filename="src/Algorithm/BruteForce.cpp" />
+		<Unit filename="src/Algorithm/DFS.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/Noeud.cpp" />
+		<Unit filename="src/graphic.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/maze.cpp" />
+		<Unit filename="src/utils/console.cpp" />
+		<Unit filename="src/utils/coord.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
